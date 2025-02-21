@@ -1,0 +1,24 @@
+/* style.css */
+window {
+    padding: 20px;
+    background-color: rgb(124, 167, 191);
+}
+
+label {
+    font-size: 16px;
+
+}
+
+button {
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+
+entry {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
